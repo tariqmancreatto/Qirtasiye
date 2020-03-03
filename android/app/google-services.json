@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "970658992586",
+    "firebase_url": "https://qirtasiye-delivery.firebaseio.com",
+    "project_id": "qirtasiye-delivery",
+    "storage_bucket": "qirtasiye-delivery.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:970658992586:android:5bf4a4852568f314c43f33",
+        "android_client_info": {
+          "package_name": "com.creatto.qirtasiye_delivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "970658992586-4qtgp1ls4u213b42569vrjulvo626a8n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBv43TXRuwuJhZlvzzipy2KPryVREdtf60"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "970658992586-4qtgp1ls4u213b42569vrjulvo626a8n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

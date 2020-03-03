@@ -1,0 +1,189 @@
+{
+  "@@last_modified": "2020-02-29T13:21:40.385621",
+  "welcome": "Qirtasiye Teslimat Uygulamasına Hoşgeldiniz!",
+  "@welcome": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "email": "Email",
+  "@email": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "password": "Şifre",
+  "@password": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "login": "Giriş yap",
+  "@login": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "error": "Hata!",
+  "@error": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "errorMessage1": "Lütfen internet bağlantınızı kontrol edin",
+  "@errorMessage1": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "errorMessage2": "Geçersiz Giriş Bilgileri, Lütfen e-postanızı ve şifrenizi kontrol edip tekrar deneyin",
+  "@errorMessage2": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "notification": "Bildirimler",
+  "@notification": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "settings": "Ayarlar",
+  "@settings": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "languages": "Diller",
+  "@languages": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "help": "Yardım ve destek",
+  "@help": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "logout": "Çıkış Yap",
+  "@logout": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "version": "versiyon",
+  "@version": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "fullname": "Ad Soyad",
+  "@fullname": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "phone": "Telefon",
+  "@phone": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "address": "Adres",
+  "@address": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "cancel": "İptal et",
+  "@cancel": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "save": "Kayıt et",
+  "@save": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "appTitle": "Qirtasiye Delievery Uygulaması",
+  "@appTitle": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "orderDetails": "sipariş detayları",
+  "@orderDetails": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "orderStatus": "durum : ",
+  "@orderStatus": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "orderPrice": "Fiyat : $",
+  "@orderPrice": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "orderQuantity": "miktar : ",
+  "@orderQuantity": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "customerAddress": "müşteri adresi : ",
+  "@customerAddress": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "customerName": "müşteri adı : ",
+  "@customerName": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "markAsDelivered": "Teslim edildi olarak işaretle",
+  "@markAsDelivered": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "applicationPreferences": "Uygulama Tercihleri",
+  "@applicationPreferences": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "profileSettings": "Profil ayarları",
+  "@profileSettings": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "edit": "Düzenle",
+  "@edit": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "appLanguage": "Uygulama Dili",
+  "@appLanguage": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "languageMessage": "Tercih ettiğiniz dili seçin",
+  "@languageMessage": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  }
+}

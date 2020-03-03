@@ -1,0 +1,189 @@
+{
+  "@@last_modified": "2020-02-29T13:21:40.385621",
+  "welcome": "بەخێر بێیت بۆ  ئەپڵیکەیشنی دێلیڤێری Qirtasiye",
+  "@welcome": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "email": "ئیمەیل",
+  "@email": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "password": "ژمارەی نهێنی",
+  "@password": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "login": "چوونە ژوورەوە",
+  "@login": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "error": "هەڵە!!",
+  "@error": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "errorMessage1": "تکایە سەیری هێڵی ئینتەرنێتت بکەرەوە",
+  "@errorMessage1": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "errorMessage2": "زانیاری چونە ژوورەوە هەڵەیە،تکایە سەیری  ئیمەیل و  ژمارەی نهێنیت بکەو دووبارە هەوڵبدە",
+  "@errorMessage2": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "notification": "ئاگاداریەکان",
+  "@notification": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "settings": "رێکخستن",
+  "@settings": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "languages": "زمانەکان",
+  "@languages": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "help": "یارمەتی و پشگیری",
+  "@help": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "logout": "چوونە دەرەوە",
+  "@logout": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "version": "چاپ",
+  "@version": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "fullname": "ناو و دواناو",
+  "@fullname": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "phone": "تەلەفۆن",
+  "@phone": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "address": "ناونیشان",
+  "@address": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "cancel": "هەڵبوەشێنە",
+  "@cancel": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "save": "تۆمار بکە",
+  "@save": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "appTitle": "ئەپڵیکەیشنی  دێلیڤێری  Qirtasiye",
+  "@appTitle": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "orderDetails": "زانیاریەکانی داواکردن",
+  "@orderDetails": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "orderStatus": "حالەت : ",
+  "@orderStatus": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "orderPrice": "نرخ : $",
+  "@orderPrice": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "orderQuantity": "بڕ (دانە) : ",
+  "@orderQuantity": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "customerAddress": "ناونیشانی کریار : ",
+  "@customerAddress": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "customerName": "ناوی کریاری : ",
+  "@customerName": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "markAsDelivered": "بە گەیەنراو  دیاریبکە",
+  "@markAsDelivered": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "applicationPreferences": "هەڵبژاردەکانی ئەپڵیکەیشن",
+  "@applicationPreferences": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "profileSettings": "رێکخستنی پرۆفایل",
+  "@profileSettings": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "edit": "رێکخستن",
+  "@edit": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "appLanguage": "زمانی ئەپڵیکەشن",
+  "@appLanguage": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "languageMessage": "ئەو زمانەی دەتەوێت هەڵبژێرە",
+  "@languageMessage": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  }
+}

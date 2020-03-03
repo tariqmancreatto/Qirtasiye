@@ -1,0 +1,189 @@
+{
+  "@@last_modified": "2020-02-27T16:35:11.293803",
+  "welcome": "أهلاً بك في تطبيق قرطاسية لتوصيل الطلبات ",
+  "@welcome": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "email": "عنوان البريد",
+  "@email": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "password": "كلمة المرور",
+  "@password": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "login": "تسجيل دخول",
+  "@login": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "error": "خطاً",
+  "@error": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "errorMessage1": "الرجاء التأكد من اتصالك بالإنترنت",
+  "@errorMessage1": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "errorMessage2": "عنوان البريد أو كلمة المرور خطاً الرجاء التأكد منهما ومعاودة المحاولة",
+  "@errorMessage2": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "notification": "إشعارات",
+  "@notification": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "settings": "إعدادت",
+  "@settings": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "languages": "اللغات",
+  "@languages": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "help": "المساعدة",
+  "@help": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "logout": "تسجيل الخروج",
+  "@logout": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "version": "الإصدار",
+  "@version": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "fullname": "الاسم كامل",
+  "@fullname": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "phone": "رقم الهاتف",
+  "@phone": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "address": "العنوان",
+  "@address": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "cancel": "إلغاء",
+  "@cancel": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "save": "حفظ",
+  "@save": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "appTitle": "تطبيق قرطاسية لتوصيل الطلبات",
+    "@appTitle": {
+      "description": "",
+      "type": "text",
+      "placeholders": {}
+    },
+    "orderDetails": "تفاصيل الطلب",
+    "@orderDetails": {
+      "description": "",
+      "type": "text",
+      "placeholders": {}
+    },
+    "orderStatus": "الحالة : ",
+    "@orderStatus": {
+      "description": "",
+      "type": "text",
+      "placeholders": {}
+    },
+    "orderPrice": "السعر : $",
+    "@orderPrice": {
+      "description": "",
+      "type": "text",
+      "placeholders": {}
+    },
+    "orderQuantity": "الكمية : ",
+    "@orderQuantity": {
+      "description": "",
+      "type": "text",
+      "placeholders": {}
+    },
+    "customerAddress": "عنوان الزبون : ",
+    "@customerAddress": {
+      "description": "",
+      "type": "text",
+      "placeholders": {}
+    },
+    "customerName": "اسم الزبون : ",
+    "@customerName": {
+      "description": "",
+      "type": "text",
+      "placeholders": {}
+    },
+    "markAsDelivered": "تم توصيل الطلب",
+    "@markAsDelivered": {
+      "description": "",
+      "type": "text",
+      "placeholders": {}
+    },
+  "applicationPreferences": "تفضيلات التطبيق",
+  "@applicationPreferences": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "profileSettings": "إعدادات الملف الشخصي",
+  "@profileSettings": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "edit": "تعديل",
+  "@edit": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "appLanguage": "لغة التطبيق",
+  "@appLanguage": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "languageMessage": "اختر لغتك المفضلة",
+  "@languageMessage": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  }
+}

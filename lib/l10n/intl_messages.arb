@@ -1,0 +1,189 @@
+{
+  "@@last_modified": "2020-02-29T13:21:40.385621",
+  "welcome": "Welcome to Qirtasiye Delivery Application!",
+  "@welcome": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "email": "Email",
+  "@email": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "password": "Password",
+  "@password": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "login": "Login",
+  "@login": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "error": "Error!",
+  "@error": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "errorMessage1": "Please check your internet connection",
+  "@errorMessage1": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "errorMessage2": "Invalid Login Information, Please check your email and password and try again",
+  "@errorMessage2": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "notification": "Notificatios",
+  "@notification": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "settings": "Settings",
+  "@settings": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "languages": "Languages",
+  "@languages": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "help": "Help & Support",
+  "@help": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "logout": "Logout",
+  "@logout": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "version": "Version",
+  "@version": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "fullname": "Full Name",
+  "@fullname": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "phone": "Phone",
+  "@phone": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "address": "Address",
+  "@address": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "cancel": "Cancel",
+  "@cancel": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "save": "Save",
+  "@save": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "appTitle": "Qirtasiye Delievery App",
+  "@appTitle": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "orderDetails": "Order Details",
+  "@orderDetails": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "orderStatus": "Status : ",
+  "@orderStatus": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "orderPrice": "Price : $",
+  "@orderPrice": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "orderQuantity": "Quantity : ",
+  "@orderQuantity": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "customerAddress": "Customer Address : ",
+  "@customerAddress": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "customerName": "Customer Name : ",
+  "@customerName": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "markAsDelivered": "Mark as delievered",
+  "@markAsDelivered": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "applicationPreferences": "Application Preferences",
+  "@applicationPreferences": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "profileSettings": "Profile Settings",
+  "@profileSettings": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "edit": "Edit",
+  "@edit": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "appLanguage": "App Language",
+  "@appLanguage": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "languageMessage": "Select your preferred language",
+  "@languageMessage": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  }
+}
